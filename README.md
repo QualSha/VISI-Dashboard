@@ -1,4 +1,4 @@
-# VISI: Visualisasi & Inferensia Kerentanan Sosial (Indonesia) Dashboard
+# VISI: Visualisasi & Inferensia Kerentanan Sosial Indonesia Dashboard
 
 ## Daftar Isi
 1.  [Pendahuluan](#pendahuluan)
