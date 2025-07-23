@@ -1,7 +1,5 @@
 # VISI: Visualisasi & Inferensia Kerentanan Sosial (Indonesia) Dashboard
 
-![Shiny App Screenshot Placeholder](https://via.placeholder.com/800x450?text=Screenshot+Dashboard+VISI)
-
 ## Daftar Isi
 1.  [Pendahuluan](#pendahuluan)
 2.  [Fitur Utama](#fitur-utama)
