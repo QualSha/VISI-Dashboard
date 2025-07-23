@@ -6,10 +6,6 @@
 3.  [Data](#data)
 4.  [Teknologi](#teknologi)
 5.  [Cara Menggunakan](#cara-menggunakan)
-6.  [Struktur Proyek](#struktur-proyek)
-7.  [Pengembangan & Kontribusi](#pengembangan--kontribusi)
-8.  [Lisensi](#lisensi)
-9.  [Kontak](#kontak)
 
 
 ## 1. Pendahuluan
